@@ -80,19 +80,23 @@ The project uses:
 ---
 
 ## Project Structure
-├── code/
+
+```bash
+.
+├── code
 │   ├── fine_tune_ALLaM.ipynb
 │   ├── NLP_Generate_Story.ipynb
 │   ├── Hadith_embedding.ipynb
 │   └── Models_Evaluation.ipynb
 │
-├── dataset/
+├── dataset
 │   ├── hadiths.csv
 │   └── MSA_stories.csv
 │
-├── outputs/
+├── outputs
+│
 └── README.md
-
+```
 ---
 
 ## Team Work
@@ -105,15 +109,6 @@ Each member contributed to different parts of the project, including:
 - Retrieval pipeline design  
 - Evaluation and analysis  
 - System integration  
-
----
-
-## Future Work
-
-- Improve Hadith retrieval accuracy  
-- Enhance multimodal outputs  
-- Expand dataset size  
-- Deploy as an application  
 
 ---
 
